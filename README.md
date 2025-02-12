@@ -38,8 +38,19 @@ Bun venit în portofoliul meu! Acesta este un repository unde am adăugat câtev
 **Caracteristici:**  
 - Utilizatorul introduce alegerea lui.  
 - Computerul generează o alegere random.  
-- Programul decide câștigătorul și afișează rezultatul.  
+- Programul decide câștigătorul și afișează rezultatul.
 
+---
+
+### 📌 5. Calculator Python – Basic Arithmetic Operations
+**Descriere:** Acest proiect este un calculator simplu în Python.  
+**Caracteristici:**
+- Permite utilizatorilor să efectueze operații aritmetice de bază: adunare, scădere, înmulțire și împărțire..
+- Utilizatorul poate efectua mai multe calcule consecutive, reutilizând rezultatul obținut anterior.
+Funcționalități
+- Suportă următoarele operații: +, -, *, /
+- Permite utilizatorului să efectueze calcule succesive cu rezultatul precedent
+- Interfață prin terminal
 
 ---
 
